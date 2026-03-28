@@ -1,0 +1,6 @@
+{
+  "enabledMcpjsonServers": [
+    "blackboard-channel"
+  ],
+  "enableAllProjectMcpServers": true
+}
